@@ -1,5 +1,5 @@
 # Dynamic_Sparsity_TVP
-Matlab codes and data spreadsheets for the paper "*Achieving dynamic sparsity in time-varying parameter regressions*" (January 2022). Note that all the files should be kept in the same folder to directly run the codes.
+Matlab codes and data spreadsheets for the paper "*Achieving dynamic sparsity in time-varying parameter regressions*" (January 2022, "*ds.pdf*"). Note that all the files should be kept in the same folder to directly run the codes.
 
 **Simulation example:**
 The file "*main_simulate_data2.m*" simulates the data used in the simulation study. 3 sets of data are simulated with different noise-to-signal ratios (*S, M, L*). The main results in the paper are for the data with the "small" noise-to-signal ratio ("*Simulated_Data_MS.xlsx*"). The other two datasets are mainly for validation purpose.
